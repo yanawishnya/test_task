@@ -1,0 +1,12 @@
+/Users/wishnya/RiderProjects/Shapes/Shapes/bin/Debug/net6.0/Shapes.deps.json
+/Users/wishnya/RiderProjects/Shapes/Shapes/bin/Debug/net6.0/Shapes.dll
+/Users/wishnya/RiderProjects/Shapes/Shapes/bin/Debug/net6.0/Shapes.pdb
+/Users/wishnya/RiderProjects/Shapes/Shapes/obj/Debug/net6.0/Shapes.csproj.AssemblyReference.cache
+/Users/wishnya/RiderProjects/Shapes/Shapes/obj/Debug/net6.0/Shapes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wishnya/RiderProjects/Shapes/Shapes/obj/Debug/net6.0/Shapes.AssemblyInfoInputs.cache
+/Users/wishnya/RiderProjects/Shapes/Shapes/obj/Debug/net6.0/Shapes.AssemblyInfo.cs
+/Users/wishnya/RiderProjects/Shapes/Shapes/obj/Debug/net6.0/Shapes.csproj.CoreCompileInputs.cache
+/Users/wishnya/RiderProjects/Shapes/Shapes/obj/Debug/net6.0/Shapes.dll
+/Users/wishnya/RiderProjects/Shapes/Shapes/obj/Debug/net6.0/refint/Shapes.dll
+/Users/wishnya/RiderProjects/Shapes/Shapes/obj/Debug/net6.0/Shapes.pdb
+/Users/wishnya/RiderProjects/Shapes/Shapes/obj/Debug/net6.0/ref/Shapes.dll
